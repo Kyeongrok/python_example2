@@ -165,3 +165,22 @@ function하고 parameter를 사용 해야 합니다.
 
 project root
 project explorer에서 맨 위에 있는 것
+
+## 복습2 return이 있는 function으로 사칙연산 만들기
+    사칙연산 plus, minus, multiple, divide
+    함수를 만들고
+    
+    10 + 20
+    100 + 200
+    20 - 30
+    200 - 300
+    30 * 40
+    300 * 400
+    40 / 50
+    400 / 500
+* 위 연산의 결과를 콘솔에 한번에 출력 할 수 있는 funciton을 만들어서 출력 해보세요.
+* 출력 형태는 '결과는 00 입니다'
+
+#### ex)
+* 결과는 30 입니다.
+* 결과는 300 입니다.
