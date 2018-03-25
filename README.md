@@ -149,3 +149,19 @@ server : 페이지를 서빙해주는 곳 (naver, google)
 
 13.pandas.DataFrame.to_csv로 dta 를 csv로 바꾸기
 14.pandas.read_csv로 csv읽어오기
+
+# 복습
+## 복습1 function으로 parameter를 받아서 text출력하기
+    안녕하세요 00님
+    안녕히가세요 00님
+    반갑습니다 00님
+위에 3개의 string을 console에 출력하세요.
+
+1. function 한개만 만들어서 출력 해보세요.
+2. /review/week1/function_example_01.py
+
+* 힌트
+function하고 parameter를 사용 해야 합니다.
+
+project root
+project explorer에서 맨 위에 있는 것
