@@ -71,6 +71,26 @@
 
 
 # 2주차
+## formatting
+<pre>
+print('greet:{} name:{}'.format('hello', 'kyeongork'))
+
+result = '{} {}'.format('hello', 'kyeongrok2')
+print(result)
+
+gugudan = '{} * {} = {}'.format(2, 1, 2 * 1)
+print(gugudan)
+</pre>
+* 한줄에 여러가지 정보를 내가 원하는 모양으로 출력하기 위해 사용 합니다.
+
+## for
+<pre>
+
+</pre>
+
+
+
+
 ## 기본 개념과 용어들
     * url : 인터넷 주소
     * http : 인터넷 주소 앞에 붙는 것 protocol
