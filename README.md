@@ -163,13 +163,13 @@ html tag
 12. 함수 x2는 x + 1인 함수를 만들어 보세요
 
 ## week4
-1.file에 데이터 30개 만들어서 저장하기
-2.file읽어서 list에 넣기
-3.list를 가지고 chart그리기
+1. file에 데이터 30개 만들어서 저장하기
+2. file읽어서 list에 넣기
+3. list를 가지고 chart그리기
 
 ## week5
-13.pandas.DataFrame.to_csv로 dta 를 csv로 바꾸기
-14.pandas.read_csv로 csv읽어오기
+13. pandas.DataFrame.to_csv로 dta 를 csv로 바꾸기
+14. pandas.read_csv로 csv읽어오기
 
 # 복습
 ## 복습1 function으로 parameter를 받아서 text출력하기
