@@ -5,3 +5,6 @@ f1.close()
 
 numbers = [1, 2]
 f2 = open("./b.txt", mode='w+')
+for number in numbers:
+    f2.write(str(number) + "\n")
+f2.close()
